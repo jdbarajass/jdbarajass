@@ -2,11 +2,11 @@
 
 <br />
 
-Soy desarrollado en BackEnd y FronEnd apasionado autodidacta de Colombia
 ¡Hola! Soy estudiante desarrollador joven colombiano. Decidí involucrarme en el mundo de la tecnología con mi carrera como Ing. en control y automatización, ya que me fascina y es la trayectoria que sigue el mundo. Tengo conocimientos en electrónica, instrumentación, automatización y control; manejo lenguajes de programación como C++, Java, Labview, JavaScript, Python, Matlab, R studio, entre otros.
 
 Correo De Contacto
 * Correo Electrónico: jdbarajass@correo.udistrital.edu.co
+
 **About me**
 
 - 💼 Python Java JavaScript 
