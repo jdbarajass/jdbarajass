@@ -7,13 +7,13 @@
 Correo De Contacto
 * Correo Electrónico: jdbarajass@correo.udistrital.edu.co
 
-**About me**
+**Acerca de mi**
 
-- 💼 Python Java JavaScript 
+- 💼 Python Java JavaScript HMTL React NodeJs
 
 - ❤️ Apasionado por todo el mundo de la programación  
 
-- 💬 Me puede contactar [here](https://wa.me/573144065520)
+- 💬 Me puede contactar [Aquí](https://wa.me/573144065520)
 - Tambien me puedes encontrar en <a href="https://www.linkedin.com/in/jdbarajass/">LinkedIn</a> 💼
 
 
