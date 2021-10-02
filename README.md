@@ -11,10 +11,10 @@ Correo De Contacto
 
 - 💼 Python Java JavaScript 
 
-- ❤️ Apasionado por la programación y el potencial que esta misma tiene por dar
+- ❤️ Apasionado por todo el mundo de la programación  
 
 - 💬 Me puede contactar [here](https://wa.me/573144065520)
-- Tambien me puedes encontrar en <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Tambien me puedes encontrar en <a href="https://www.linkedin.com/in/jdbarajass/">LinkedIn</a> 💼
 
 
 
