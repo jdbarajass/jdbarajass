@@ -26,7 +26,7 @@ Correo De Contacto
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdbarajass)](https://github.com/jdbarajass/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdbarajass&repo=github-readme-stats)](https://github.com/jdbarajass)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass&show_icons=true&theme=great-gatsby)
 
 
 
