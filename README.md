@@ -13,7 +13,7 @@ Correo De Contacto
 
 - ❤️ Apasionado por todo el mundo de la programación  
 
-- 💬 Me puede contactar [Aquí](https://wa.me/573144065520)
+- 💬 Me puedes contactar [Aquí](https://wa.me/573144065520)
 - Tambien me puedes encontrar en <a href="https://www.linkedin.com/in/jdbarajass/">LinkedIn</a> 💼
 
 
