@@ -25,10 +25,10 @@ Correo De Contacto
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdbarajass)](https://github.com/jdbarajass/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdbarajass&repo=github-readme-stats)](https://github.com/jdbarajass)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass&show_icons=true&theme=great-gatsby)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass&show_icons=true&theme=vision-friendly-dark)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdbarajass&repo=github-readme-stats)](https://github.com/jdbarajass) -->
+ <!--Para cambiar de temas en los cuadros https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
 
 
 ────────────────────────────────<br>
