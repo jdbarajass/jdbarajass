@@ -26,7 +26,7 @@ Correo De Contacto
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdbarajass)](https://github.com/jdbarajass/github-readme-stats)
 
-![jdbarajass Estadisticas De GitHub](https://github-readme-stats.vercel.app/api?username=jdbarajass&show_icons=true&theme=vision-friendly-dark)
+![jdbarajass GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass&show_icons=true&theme=vision-friendly-dark)
 <!--[![jdbarajass GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass)](https://github.com/jdbarajass/github-readme-stats)-->
 <!--[![jdbarajass GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass)](https://github.com/jdbarajass/github-readme-stats)-->
 
