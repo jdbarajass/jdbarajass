@@ -28,6 +28,8 @@ Correo De Contacto
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass&show_icons=true&theme=vision-friendly-dark)
 [![jdbarajass GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass)](https://github.com/jdbarajass/github-readme-stats)
+[![jdbarajass GitHub stats](https://github-readme-stats.vercel.app/api?username=jdbarajass)](https://github.com/jdbarajass/github-readme-stats)
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdbarajass&repo=github-readme-stats)](https://github.com/jdbarajass) -->
  <!--Para cambiar de temas en los cuadros https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
 
