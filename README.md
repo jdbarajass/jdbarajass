@@ -2,7 +2,7 @@
 
 <br />
 
-¡Hola! Soy Ingeniero en Control y Automatizaci´on con experiencia en desarrollo Full Stack y manejo avanzado de Python, bases de datos y APIs RESTful. Certificado por IBM en Ingenier´ıa de Datos, con competencias en Big Data (Apache Kafka, Spark, Hadoop) y dise˜no de pipelines ETL. Actualmente cursando una Maestr´ıa en Gesti´on y Seguridad de la Informaci´on, enfocada en optimizaci´on de flujos de datos y ciberseguridad. Apasionado por integrar soluciones innovadoras en desarrollo de software, ingenier´ıa de datos y protecci´on de datos.
+¡Hola! Soy Ingeniero en Control y Automatización con experiencia en desarrollo Full Stack y manejo avanzado de Python, bases de datos y APIs RESTful. Actualmente estudiando para el certificado por IBM en Ingeniería de Datos, con competencias en Big Data (Apache Kafka, Spark, Hadoop) y diseño de pipelines ETL. Apasionado por integrar soluciones innovadoras en desarrollo de software, ingeniería de datos y protección de datos.
 
 
 Correo De Contacto
