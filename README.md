@@ -2,7 +2,8 @@
 
 <br />
 
-¡Hola! Soy estudiante desarrollador joven colombiano. Decidí involucrarme en el mundo de la tecnología con mi carrera como Ing. en control y automatización, ya que me fascina y es la trayectoria que sigue el mundo. Tengo conocimientos en electrónica, instrumentación, automatización y control; manejo lenguajes de programación como C++, Java, Labview, JavaScript, Python, Matlab, R studio, entre otros.
+¡Hola! Soy Ingeniero en Control y Automatizaci´on con experiencia en desarrollo Full Stack y manejo avanzado de Python, bases de datos y APIs RESTful. Certificado por IBM en Ingenier´ıa de Datos, con competencias en Big Data (Apache Kafka, Spark, Hadoop) y dise˜no de pipelines ETL. Actualmente cursando una Maestr´ıa en Gesti´on y Seguridad de la Informaci´on, enfocada en optimizaci´on de flujos de datos y ciberseguridad. Apasionado por integrar soluciones innovadoras en desarrollo de software, ingenier´ıa de datos y protecci´on de datos.
+
 
 Correo De Contacto
 * Correo Electrónico: jdbarajass@gmail.com
